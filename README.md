@@ -139,25 +139,6 @@ This project aims to:
 
 ---
 
-# Project Structure
-project
-│
-├── data
-├── notebooks
-├── src
-│ ├── data_collection.py
-│ ├── preprocessing.py
-│ ├── sentiment_analysis.py
-│ ├── topic_modeling.py
-│ ├── llm_insights.py
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
-
----
-
 # How to Run the Project
 
 ### 1 Install Dependencies
