@@ -1,0 +1,24 @@
+# Apollo Hospitals Chennai — Review Analyzer
+# Install with: pip install -r requirements.txt
+
+# API & data collection
+requests>=2.31.0
+serpapi>=0.1.5
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP & ML (Hugging Face)
+transformers>=4.38.0
+torch>=2.1.0
+sentencepiece>=0.1.99
+accelerate>=0.27.0
+
+# Dashboard
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
